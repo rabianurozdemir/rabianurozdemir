@@ -18,7 +18,7 @@
 <h1 align="center">My Games/VR Simulations 🎮<a target="_blank"></h1>
 	
 <p align="center">
-    <a href="https://github.com/rabianurozdemir" target="_blank">
+    <a href="https://vrlabedu.com/" target="_blank">
         <img alt="VRLabEdu" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/vrlabedu.png">
     </a>
     <a href="https://github.com/rabianurozdemir/Four-Operations-Game" target="_blank">
