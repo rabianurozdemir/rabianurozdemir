@@ -20,29 +20,29 @@
 
 <h1 align="center">My Games/VR Simulations 🎮<a target="_blank"></h1>
 	
-<p align="center">
-    <a href="https://vrlabedu.com/" target="_blank">
+<p align="center" style="text-decoration: none;">
+    <a href="[https://vrlabedu.com/]" target="_blank" style="text-decoration: none;">
         <img alt="VRLabEdu" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/vrlabedu.png">
     </a>
-    <a href="https://vrlabedu.com/" target="_blank">
+    <a href="[https://vrlabedu.com/]" target="_blank">
         <img width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/bloodgroups_experiment.png">
     </a>
-    <a href="https://vrlabedu.com/" target="_blank">
+    <a href="[https://vrlabedu.com/]" target="_blank">
         <img width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/ibni_sina.jpeg">
     </a>
-    <a href="https://vrlabedu.com/" target="_blank">
+    <a href="[https://vrlabedu.com/]" target="_blank">
         <img width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/temperature_experiment.png">
     </a>
-    <a href="https://vrlabedu.com/" target="_blank">
+    <a href="[https://vrlabedu.com/]" target="_blank">
         <img width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/phpaper_experiment.png">
     </a>
-    <a href="https://vrlabedu.com/" target="_blank">
+    <a href="[https://vrlabedu.com/]" target="_blank">
         <img width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/vrlabedu2.png">
     </a>
-    <a href="https://github.com/rabianurozdemir/Four-Operations-Game" target="_blank">
+    <a href="[https://github.com/rabianurozdemir/Four-Operations-Game]" target="_blank">
         <img width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/four_operations_game.png">
     </a>
-    <a href="https://github.com/rabianurozdemir/Plane-Game" target="_blank">
+    <a href="[https://github.com/rabianurozdemir/Plane-Game]" target="_blank">
         <img width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/plane_game.png">
     </a>
 </p>
