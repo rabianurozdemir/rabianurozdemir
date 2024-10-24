@@ -18,14 +18,14 @@
 <h1 align="center">My Games/VR Simulations 🎮<a target="_blank"></h1>
 	
 <p align="center">
-    <a href="https://github.com/rabianurozdemir">
-        <img alt="VRLabEdu" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/vrlabedu.png" style="margin: 0 10px;">
+    <a href="https://github.com/rabianurozdemir" target="_blank">
+        <img alt="VRLabEdu" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/vrlabedu.png">
     </a>
-    <a href="https://github.com/rabianurozdemir/Four-Operations-Game">
-        <img alt="Four Operations Game" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/four_operations_game.png" style="margin: 0 10px;">
+    <a href="https://github.com/rabianurozdemir/Four-Operations-Game" target="_blank">
+        <img alt="Four Operations Game" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/four_operations_game.png">
     </a>
-    <a href="https://github.com/rabianurozdemir/Plane-Game">
-        <img alt="Plane Game" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/plane_game.png" style="margin: 0 10px;">
+    <a href="https://github.com/rabianurozdemir/Plane-Game" target="_blank">
+        <img alt="Plane Game" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/plane_game.png">
     </a>
 </p>
 
