@@ -16,13 +16,13 @@
 </p>
 
 <h1 align="center">My Games/VR Simulations 🎮<a target="_blank"></h1>
+	
+<p align="center">
+    <img alt="VRLabEdu" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/vrlabedu.png" style="margin: 0 10px;">
+    <img alt="Four Operations Game" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/four_operations_game.png" style="margin: 0 10px;">
+    <img alt="Plane Game" width="200" height="200" src="https://github.com/rabianurozdemir/rabianurozdemir/blob/main/plane_game.png" style="margin: 0 10px;">
+</p>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img alt="VRLabEdu" width="200" src="" style="align-self: flex-start;">
-    <img alt="Four Operations Game" width="200" src="" style="align-self: center;">
-    <img alt="Plane Game" width="200" src="" style="align-self: flex-start;">
-    <img alt="Cooker Game" width="200" src="" style="align-self: flex-start;">
-</div>
 
 
 
