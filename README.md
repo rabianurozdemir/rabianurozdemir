@@ -1,5 +1,4 @@
-<h1 align="center">Hi </a>, I'm Rabia <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /></h1>
+<h1 align="center">Hi, I'm Rabia 🍀 <a target="_blank"></h1>
 <h3 align="center">Game/VR Developer </h3>
 
 <p align="center">
@@ -15,6 +14,17 @@
 		<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </div>
 </p>
+
+<h1 align="center">My Games/VR Simulations 🎮<a target="_blank"></h1>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img alt="VRLabEdu" width="200" src="" style="align-self: flex-start;">
+    <img alt="Four Operations Game" width="200" src="" style="align-self: center;">
+    <img alt="Plane Game" width="200" src="" style="align-self: flex-start;">
+    <img alt="Cooker Game" width="200" src="" style="align-self: flex-start;">
+</div>
+
+
 
 
 
